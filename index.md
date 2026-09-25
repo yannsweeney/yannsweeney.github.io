@@ -1,10 +1,10 @@
 # AI Use Disclosure
 
-I use approved AI tools to assist with administrative tasks, reviewer search, literature discovery and understanding, tool development, and workflow management. Currently this primarily involves interacting with Microsoft 365 Copilot.
+I use approved AI tools to assist with administrative tasks, reviewer search, literature discovery, tool development, and workflow management. Currently this primarily involves interacting with Microsoft 365 Copilot.
 
 When assessing a manuscript I often use an AI chat alongside the manuscript files and use it to surface relevant information from these files and the scientific literature.
 
-When assessing revisions or appeals I often use AI tools to summarise changes made, and to identify which issues were responded to or not.
+When assessing revisions or appeals I often use AI tools to summarise changes made, and which issues were responded to or not.
 
 I do not use AI tools to write emails (except for the occasional suggested one-liner responses) or decision letters, and rarely use them for summarising those that I receive.
 
